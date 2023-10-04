@@ -4,7 +4,7 @@
 # Сборка docker образа:
 
 
-docker build -t parser_python .
+# docker build -t parser_python .
 
 
-docker run parser_python
+# docker run parser_python
