@@ -5,4 +5,6 @@
 
 
 docker build -t parser_python .
+
+
 docker run parser_python
